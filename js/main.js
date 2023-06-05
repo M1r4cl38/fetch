@@ -16,7 +16,7 @@ const data = fetch('https://m1r4cl38.github.io/fetch//data/users.json')
 //let HTML = '';
 
 //for (const item of data) {
-    HTML += `<li>${item.id}) ${item.text}</li>`;
+  //  HTML += `<li>${item.id}) ${item.text}</li>`;
 //}
 
 //ulDOM.innerHTML = HTML;
